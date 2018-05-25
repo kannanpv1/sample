@@ -1,2 +1,2 @@
 # sample
-this is master
+this master
